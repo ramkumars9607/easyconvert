@@ -1,0 +1,37 @@
+{
+    "data": 
+    [
+        {
+            "label": "Exception",
+            "data": "Exception",
+            "expandedIcon": "pi pi-folder-open",
+            "collapsedIcon": "pi pi-folder"
+        },
+        {
+            "label": "Response",
+            "data": "Response",
+            "expandedIcon": "pi pi-folder-open",
+            "collapsedIcon": "pi pi-folder",
+            "children": [{
+                    "label": "httptype",
+                    "data": "httptype",
+                    "icon": "pi pi-file"
+                },
+                {
+                    "label": "requestMetaData",
+                    "data": "requestMetaData",
+                    "icon": "pi pi-file"
+                },
+                {
+                    "label": "requestUrl",
+                    "data": "requestUrl",
+                    "icon": "pi pi-file"
+                },
+                {
+                    "label": "routingKey",
+                    "data": "routingKey",
+                    "icon": "pi pi-file"
+                }]
+        }
+    ]
+}

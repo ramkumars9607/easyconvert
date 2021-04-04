@@ -1,0 +1,33 @@
+{
+    "data": 
+    [
+        {
+            "label": "Properties",
+            "data": "Properties",
+            "expandedIcon": "pi pi-folder-open",
+            "collapsedIcon": "pi pi-folder"
+        },
+        {
+            "label": "Constants",
+            "data": "Constants",
+            "expandedIcon": "pi pi-folder-open",
+            "collapsedIcon": "pi pi-folder"
+        },
+        {
+            "label": "Sample",
+            "data": "Sample",
+            "expandedIcon": "pi pi-folder-open",
+            "collapsedIcon": "pi pi-folder",
+            "children": [{
+                    "label": "age",
+                    "data": "age",
+                    "icon": "pi pi-file"
+                },
+                {
+                    "label": "firstName",
+                    "data": "firstName",
+                    "icon": "pi pi-file"
+                }]
+        }
+    ]
+}
