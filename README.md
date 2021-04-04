@@ -11,5 +11,5 @@
  
  1. created the module called convert-master
  2. Added the component convert-master-component for show views
- 3. Added the convert service gettting files
+ 3. Added the convert service for getting files
  4. Added json files under src/assets
